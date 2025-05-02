@@ -1,7 +1,7 @@
 # Laravel Online Quiz Application (based on Laravel 8.x)
 
 - Application to manage and take the quiz online.
-- Admin can create test, manage tests and students.
+- Admin can create tests, manage tests and students.
 - Students can apply for the test and view results and answer sheets.
 
 
@@ -11,9 +11,6 @@
 
 # Demo
 Check the following demo project.
-
-**[View demo](https://quiz-exam-application.herokuapp.com/)**
-
 
 ```
 Admin login
@@ -28,7 +25,7 @@ password : password
    ```
    composer install
    ```
-   if you get any problems while running above command then run the following command.
+   if you get any problems while running the above command, then run the following command.
    ```
    composer install --ignore-platform-reqs
    ```
@@ -59,7 +56,7 @@ password : password
     ```
     npm run dev
     ```
-8. **Finally run the application**
+8. **Finally, run the application**
    ```
    php artisan serve
    ```
@@ -67,27 +64,13 @@ password : password
 
 # Packages
 
-I used the following github repo to create the theme.
+I used the following GitHub repo to create the theme.
    - [Qirolab](https://github.com/qirolab/laravel-themer)
 
 
 # Contributing
 
-This project is open for contributions so Pull requests and Issues are welcome.
-
-# Screenshots
-
-## Admin side
-
-![image](https://user-images.githubusercontent.com/70872374/147752562-9648c490-8a0e-4376-b555-5cec9cf6ee57.png)
-![image](https://user-images.githubusercontent.com/70872374/147752630-a807a527-ab18-4b0a-885b-90bab9dd3a42.png)
-
-
-
-## Student side
-
-![image](https://user-images.githubusercontent.com/70872374/147752771-66b63a55-69bb-41d2-93df-138991287b67.png)
-![image](https://user-images.githubusercontent.com/70872374/147752807-4fb59934-f1f7-4be0-8a10-a150f175dd36.png)
+This project is open for contributions, so Pull requests and Issues are welcome.
 
 
 
